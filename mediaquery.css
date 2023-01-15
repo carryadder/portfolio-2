@@ -1,0 +1,82 @@
+@media(max-width:930px){
+    
+
+    h1{
+        padding-top: 17rem;
+    }
+
+    .top-container .cloud-1{
+        right: 5rem;
+        top: 5rem;
+        width: 10rem;
+        
+    }
+    
+    .top-container .cloud-2{
+        left: 5rem;
+        bottom: 25rem;
+        width: 10rem;
+    }
+
+    .top-container .mountain{
+        width: 80%;
+    }
+
+    .middle-container .profile p{
+        width: 60%;
+    }
+
+    .skill-row{
+        width: 60%;
+    }
+
+    .contact-me p{
+        width: 60%;
+        margin: auto;
+        margin-bottom: 2rem;
+    }
+
+}
+
+
+@media(max-width:500px){
+    *{
+        border: 1px ;
+    }
+
+    h1{
+        padding-top: 5rem;
+
+    }
+
+    .top-container .cloud-1{
+        right: 1rem;
+        top: 2rem;
+        width: 7rem;
+        
+    }
+    
+    .top-container .cloud-2{
+        left: 3rem;
+        bottom: 13rem;
+        width: 7rem;
+    }
+
+    .top-container .mountain{
+        width: 100%;
+    }
+
+    .top-container h2{
+        margin-top: 10px;
+    }
+
+    .middle-container .profile p{
+        width: 80%;
+    }
+
+    .skill-row{
+        width: 65%;
+    }
+
+    
+}
